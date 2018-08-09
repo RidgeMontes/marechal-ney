@@ -67,7 +67,7 @@ a {
 }
 
 .flex-item {
-  background: clear;
+  background: transparent;
   padding: 5px;
   width: auto;
   height: auto;
@@ -163,7 +163,7 @@ header.masthead .masthead-content .masthead-subheading {
 
 .img-fluid {
   max-width: 100%;
-  height: auto
+  height: 100%;
 }
 
 .headshot {
@@ -349,8 +349,8 @@ div.img-NAW {
   padding-top: 0.2rem;
   width: 180px;
   height: auto;
-  font-size: 16px;
-  font-weight: 600;
+  font-size: 12px;
+  font-weight: 400;
   line-height: normal;
   color: #3596DA;
   text-transform: uppercase;
@@ -359,16 +359,16 @@ div.img-NAW {
 .delegate-company {
   width: 180px;
   height: auto;
-  font-size: 25px;
+  font-size: 16px;
   font-weight: 400;
   line-height: normal;
 }
 
 .delegate-title {
   width: 150px;
-  font-weight: 400;
+  font-size: 12px;
+  font-weight: 200;
   height: auto;
-  font-size: 14px;
   line-height: normal;
   margin: 0 auto;
 }
@@ -378,8 +378,8 @@ div.img-NAW {
       padding-top: 0.2rem;
       width: 100px;
       height: auto;
-      font-size: 12px;
-      font-weight: 600;
+  	  font-size: 10px;
+      font-weight: 400;
       line-height: normal;
       color: #3596DA;
       text-transform: uppercase;
@@ -387,15 +387,15 @@ div.img-NAW {
     .delegate-company {
       width: 100px;
       height: auto;
-      font-size: 14px;
+      font-size: 12px;
       font-weight: 400;
       line-height: normal;
     }
     .delegate-title {
       width: 100px;
-      font-weight: 400;
+  	  font-size: 10px;
+      font-weight: 200;
       height: auto;
-      font-size: 10px;
       line-height: normal;
       margin: 0 auto;
     }
@@ -406,8 +406,8 @@ div.img-NAW {
       padding-top: 0.2rem;
       width: 150px;
       height: auto;
-      font-size: 14px;
-      font-weight: 600;
+  	  font-size: 12px;
+      font-weight: 400;
       line-height: normal;
       color: #3596DA;
       text-transform: uppercase;
@@ -415,15 +415,15 @@ div.img-NAW {
     .delegate-company {
       width: 150px;
       height: auto;
-      font-size: 20px;
+  	  font-size: 16px;
       font-weight: 400;
       line-height: normal;
     }
     .delegate-title {
       width: 150px;
-      font-weight: 400;
+  	  font-size: 12px;
+      font-weight: 200;
       height: auto;
-      font-size: 12px;
       line-height: normal;
       margin: 0 auto;
     }
