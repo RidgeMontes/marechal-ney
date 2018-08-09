@@ -54,8 +54,8 @@ a {
 
 
 .flex-container {
-  padding: 0;
-  margin: 0;
+  padding: 0px;
+  margin: 0px;
   list-style: none;
   display: -webkit-box;
   display: -moz-box;
@@ -137,7 +137,7 @@ header.masthead .masthead-content .masthead-subheading {
 /* Spacing, margin, padding. */
 
 .mb-0 {
-  margin-bottom: 0;
+  margin-bottom: 0px;
 }
 
 .pad-1 {
@@ -347,7 +347,7 @@ div.img-NAW {
 
 .delegate-name {
   padding-top: 0.2rem;
-  width: 180;
+  width: 180px;
   height: auto;
   font-size: 16px;
   font-weight: 600;
@@ -357,7 +357,7 @@ div.img-NAW {
 }
 
 .delegate-company {
-  width: 180;
+  width: 180px;
   height: auto;
   font-size: 25px;
   font-weight: 400;
@@ -365,7 +365,7 @@ div.img-NAW {
 }
 
 .delegate-title {
-  width: 150;
+  width: 150px;
   font-weight: 400;
   height: auto;
   font-size: 14px;
@@ -376,7 +376,7 @@ div.img-NAW {
 @media screen and (max-width: 600px) {
     .delegate-name {
       padding-top: 0.2rem;
-      width: 100;
+      width: 100px;
       height: auto;
       font-size: 12px;
       font-weight: 600;
@@ -385,14 +385,14 @@ div.img-NAW {
       text-transform: uppercase;
     }
     .delegate-company {
-      width: 100;
+      width: 100px;
       height: auto;
       font-size: 14px;
       font-weight: 400;
       line-height: normal;
     }
     .delegate-title {
-      width: 100;
+      width: 100px;
       font-weight: 400;
       height: auto;
       font-size: 10px;
