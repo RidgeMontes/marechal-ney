@@ -432,7 +432,7 @@ div.img-NAW {
 
 
 .delegate-name-NAW {
-  width: auto;
+  width: 250px;
   height: auto;
   font-size: 25px;
   line-height: normal;
@@ -440,7 +440,7 @@ div.img-NAW {
 }
 
 .delegate-title-NAW {
-  width: auto;
+  width: 250px;
   height: auto;
   font-size: 15px;
   line-height: normal;
