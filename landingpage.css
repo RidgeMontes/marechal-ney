@@ -1,7 +1,7 @@
 /* page-wide settings. */
 
 html {
-    background: #e6e9e9;
+    background: #484C4F;
 }
 
 body {
@@ -550,28 +550,36 @@ div.img-NAW {
   background-color: rgba(0, 0, 0, 0.7);
   padding-left: 0px;
   padding-right: 0px;
-}
-
-.fixed-top {
+  width:1200px;
   position: fixed;
-  top: 0;
-  right: 0;
-  left: 0;
   z-index: 1030;
 }
 
-.float-left {
-    float: left;
+@media screen and (max-width: 1200px) and (min-width: 0px) {
+    .navbar-custom {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: rgba(0, 0, 0, 0.7);
+  padding-left: 0px;
+  padding-right: 0px;
+  width:100%;
+  position: fixed;
+  z-index: 1030;
+    }
 }
 
-.float-right {
-    float: right;
-    vertical-align: middle;
-    padding: 1rem;
-}
-
-.logo-menu {
+.navigation-logo {
     height: 60px;
     width: auto;
     padding-left: 1rem;
+    float: left;
+    
 }
+
+.navigation-button{
+    float: right;
+    vertical-align: middle;
+    padding: 1rem;font-size: 20px;
+    font-weight:600;
+}
+    
