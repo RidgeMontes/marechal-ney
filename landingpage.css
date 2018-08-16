@@ -539,3 +539,39 @@ div.img-NAW {
   background-size: cover;
   background-image: url(https://go.mill-all.com/EventBackground);
 }
+
+
+
+/* Navigation Bar. */
+
+.navbar-custom {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: rgba(0, 0, 0, 0.7);
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.fixed-top {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+    vertical-align: middle;
+    padding: 1rem;
+}
+
+.logo-menu {
+    height: 60px;
+    width: auto;
+    padding-left: 1rem;
+}
