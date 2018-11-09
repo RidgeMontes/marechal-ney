@@ -362,6 +362,7 @@ div.img-NAW {
   font-size: 16px;
   font-weight: 600;
   line-height: normal;
+  text-transform: uppercase;
 }
 
 .delegate-title {
@@ -371,6 +372,7 @@ div.img-NAW {
   height: auto;
   line-height: normal;
   margin: 0 auto;
+  text-transform: uppercase;
 }
 
 @media screen and (max-width: 600px) {
@@ -390,6 +392,7 @@ div.img-NAW {
       font-size: 12px;
       font-weight: 400;
       line-height: normal;
+      text-transform: uppercase;
     }
     .delegate-title {
       width: 100px;
@@ -398,6 +401,7 @@ div.img-NAW {
       height: auto;
       line-height: normal;
       margin: 0 auto;
+      text-transform: uppercase;
     }
 }
 
@@ -418,6 +422,7 @@ div.img-NAW {
   	  font-size: 16px;
       font-weight: 600;
       line-height: normal;
+      text-transform: uppercase;
     }
     .delegate-title {
       width: 150px;
@@ -426,6 +431,7 @@ div.img-NAW {
       height: auto;
       line-height: normal;
       margin: 0 auto;
+      text-transform: uppercase;
     }
 }
 
@@ -437,6 +443,7 @@ div.img-NAW {
   font-size: 25px;
   line-height: normal;
   padding: 0.4rem;
+  text-transform: uppercase;
 }
 
 .delegate-title-NAW {
